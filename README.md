@@ -1,3 +1,10 @@
+<a href="https://github.com/pulls?q=author%3Asxzz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=li814222685&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows Sonic.Lee's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=li814222685&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+  </picture>
+</a>
+
 ### Hi there 👋
 
 Hello, I'm Sonic.lee, A 0.5 Full-stack development:
@@ -14,4 +21,3 @@ Hello, I'm Sonic.lee, A 0.5 Full-stack development:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Sonic.lee's Github Stats](https://github-readme-stats.vercel.app/api?username=li814222685&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
