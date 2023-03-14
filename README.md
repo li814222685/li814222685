@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
+Hello, I'm Sonic.lee, A 0.5 Full-stack development:
 
-- 👨‍💼 I currently work in Shenzhen,China.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
-- 📺 I currently continue to make some [videos](https://www.ixigua.com/home/109529239261) about learning programming. 
-- 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
+- 👨‍💼 I currently work in Beijing,China.I'm curious about all programming
+- 📺 I am good at front-end development. React and Vue are frameworks I am very familiar with. 
+     Sometimes node.js is used to develop some background services.
+- 👯 If you have interesting open source or project, please @ me. I can 'good job'
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +14,4 @@ Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack dev
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fusion Zhu's Github Stats](https://github-readme-stats.vercel.app/api?username=TianLangStudio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Sonic.lee's Github Stats](https://github-readme-stats.vercel.app/api?username=TianLangStudio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
